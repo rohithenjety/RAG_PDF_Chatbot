@@ -1,0 +1,151 @@
+[
+    {
+      "query": "What does the policy booklet include?",
+      "response": "The policy booklet includes your car insurance details, certificate of motor insurance, and if applicable, the Green Flag breakdown cover booklet and DriveSure terms and conditions."
+    },
+    {
+      "query": "What is the UK market value for claims?",
+      "response": "The UK market value is the current value of your car at the time of the claim, which may differ from the amount paid or provided during insurance."
+    },
+    {
+      "query": "Who is covered to drive other cars?",
+      "response": "Your certificate of motor insurance will show who is covered to drive other cars. It only covers injury to third parties or damage to their property, not the car being driven."
+    },
+    {
+      "query": "What happens if I leave my car unlocked?",
+      "response": "We won’t pay a claim for theft or attempted theft if your car is left unlocked, with keys or key fobs in/on the car, with the engine running, or with a window or roof open."
+    },
+    {
+      "query": "Does the policy cover mechanical failure?",
+      "response": "No, the policy does not cover mechanical or electrical failure, wear and tear, damage to tyres caused by braking, punctures, cuts or bursts, or breakdowns."
+    },
+    {
+      "query": "Are there approved repairers?",
+      "response": "Yes, Churchill customers have access to a national network of approved repairers who will handle all aspects of your repair."
+    },
+    {
+      "query": "What is DriveSure?",
+      "response": "DriveSure is a telematics insurance product designed to capture driving data based on driver-monitoring technology, allowing premiums to be based on driving records."
+    },
+    {
+      "query": "What is the difference between commuting and business use?",
+      "response": "Business use covers driving in connection with a business or employment, while commuting covers driving to and from a permanent place of work."
+    },
+    {
+      "query": "Can I use my car abroad?",
+      "response": "Yes, you can use your car abroad depending on your policy type and destination. Details are in the 'Where you can drive' section. A Green Card may be needed for travel."
+    },
+    {
+      "query": "Are electric car charging cables covered?",
+      "response": "Yes, they are considered an accessory and are covered under 'Section 2: Fire and theft' or 'Section 4: Accidental damage'."
+    },
+    {
+      "query": "Is my electric car battery covered?",
+      "response": "Yes, the battery is covered if it’s damaged due to an insured incident, regardless of whether it is owned or leased."
+    },
+    {
+      "query": "What are accessories?",
+      "response": "Accessories are parts or products specifically designed to be fitted to your car, including electric car charging cables and home chargers."
+    },
+    {
+      "query": "What is an approved repairer?",
+      "response": "An approved repairer is a contracted repairer in our network approved by us to carry out repairs to your car following a claim under this policy."
+    },
+    {
+      "query": "What is an automated car?",
+      "response": "An automated car is one that can lawfully drive itself on roads or other public places in Great Britain and must be on the Secretary of State’s list of motor vehicles that may safely drive themselves."
+    },
+    {
+      "query": "What is a courtesy car?",
+      "response": "A courtesy car is a small hatchback or similar vehicle supplied temporarily by an approved repairer while your car is being repaired."
+    },
+    {
+      "query": "What is the excess?",
+      "response": "The excess is the amount you may have to pay towards a claim. Specific excess amounts can be found in your car insurance details."
+    },
+    {
+      "query": "What does in-car entertainment cover?",
+      "response": "In-car entertainment includes products designed to be fitted to your car for entertainment purposes, either permanently fitted or removable, but not personal portable electronic equipment."
+    },
+    {
+      "query": "What is considered loss of any limb?",
+      "response": "Loss of any limb refers to a limb severed at or above the wrist or ankle, or total and irrecoverable loss of use of a hand, arm, foot, or leg."
+    },
+    {
+      "query": "Who is the main driver?",
+      "response": "The main driver is the person declared as the main user of your car, shown on your car insurance details."
+    },
+    {
+      "query": "What is the market value?",
+      "response": "The market value is the cost of replacing your car with another of the same make and model, and of similar age, mileage, and condition at the time of the accident or loss."
+    },
+    {
+      "query": "What are modifications?",
+      "response": "Modifications are changes to your car’s standard specification, including optional extras and changes to the appearance or performance of the car."
+    },
+    {
+      "query": "Who is the NCD owner?",
+      "response": "The NCD owner is the person who has earned the No Claim Discount that is in use on this policy."
+    },
+    {
+      "query": "What is the period of insurance?",
+      "response": "The period of insurance is the length of time you have insurance cover under this policy, indicated on your certificate of motor insurance and car insurance details."
+    },
+    {
+      "query": "Who is the policyholder?",
+      "response": "The policyholder is the person named as the policyholder on your car insurance details."
+    },
+    {
+      "query": "What is the Road Traffic Act?",
+      "response": "The Road Traffic Act includes the acts, laws, and regulations that cover driving or using cars in Great Britain, Northern Ireland, the Channel Islands, and the Isle of Man."
+    },
+    {
+      "query": "What are the territorial limits?",
+      "response": "The territorial limits are Great Britain, Northern Ireland, the Channel Islands, and the Isle of Man."
+    },
+    {
+      "query": "What is a track day?",
+      "response": "A track day is when your car is driven on a racing track, airfield, or at an off-road event."
+    },
+    {
+      "query": "What is vandalism?",
+      "response": "Vandalism is damage caused by a malicious and deliberate act."
+    },
+    {
+      "query": "What does written off mean?",
+      "response": "A car is written off when it’s so badly damaged that it’s no longer roadworthy or the cost to fix it would be uneconomical based on its market value."
+    },
+    {
+      "query": "What is your car?",
+      "response": "Your car is the vehicle described in your car insurance details, including its accessories and spare parts if they are on your car, in it, in your locked private garage, or plugged into your car."
+    },
+    {
+      "query": "What is personal accident cover?",
+      "response": "Personal accident cover provides a lump sum payment if you or your spouse/partner suffers death or specific injuries while traveling in or getting into/out of your car."
+    },
+    {
+      "query": "What is the maximum claim amount for personal accident cover?",
+      "response": "The maximum claim amount for personal accident cover is £5,000 per person."
+    },
+    {
+      "query": "Does the policy cover theft of personal belongings?",
+      "response": "Yes, the policy covers theft of personal belongings up to £100 per incident, provided they were in the car and there are visible signs of forced entry."
+    },
+    {
+      "query": "What is the limit for emergency accommodation expenses?",
+      "response": "The policy covers up to £250 for emergency accommodation if your car is undriveable following an accident or theft."
+    },
+    {
+      "query": "Are medical expenses covered?",
+      "response": "Yes, the policy covers medical expenses up to £100 for each injured person if your car is involved in an accident."
+    },
+    {
+      "query": "What is uninsured driver protection?",
+      "response": "Uninsured driver protection covers damage to your car and injury to you and your passengers if an uninsured driver hits your car."
+    },
+    {
+      "query": "Does the policy include new car replacement?",
+      "response": "Yes, the policy includes new car replacement if your car is less than 12 months old and written off or stolen and not recovered."
+    }
+  ]
+  
