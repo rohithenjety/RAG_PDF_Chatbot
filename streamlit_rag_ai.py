@@ -78,7 +78,7 @@ def user_input(user_question, api_key):
     st.write("Reply: ", response["output_text"])
 
 def main():
-    st.header("AI clone chatbot💁")
+    st.header("RAG Chatbot")
 
     user_question = st.text_input("Ask a Question from the PDF Files", key="user_question")
 
